@@ -19,6 +19,6 @@
 ## Chai and Mocha Implementation Unit Testing:
 
 <div>
-  <img src="explanation_img/step_7_chai_mocha_test.png" width="80%">
+  <img src="explanation_img/step_7.png" alt="step_7_chai_mocha_test.png" width="80%">
   <img src="explanation_img/step_8.png" width="80%">
 </div>
