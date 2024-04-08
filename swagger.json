@@ -5,6 +5,7 @@
       "description": "API endpoints for managing users",
       "version": "1.0.0"
     },
+    "import": "json",
     "basePath": "",
     "schemes": [
       "http"
